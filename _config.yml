@@ -60,3 +60,6 @@ plugins:
 #  - jekyll-feed
 
 remote_theme: samarsault/plainwhite-jekyll
+
+url: "https://wdmab1204.github.io"
+baseurl: ""
